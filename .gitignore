@@ -1,0 +1,11 @@
+Binaries/
+TDTDShooter.sln
+.vs/
+Content/Bridges/
+Content/ModularBuildingSet/Demo_Scene.umap
+Content/ModularBuildingSet/
+Content/MS_StTilesEss/
+Content/WaterMaterials/
+Intermediate/
+plugins/
+Saved/
